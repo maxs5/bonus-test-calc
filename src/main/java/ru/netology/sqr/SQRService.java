@@ -1,6 +1,6 @@
-package ru.netology.sqr;
+ package ru.netology.sqr;
 
-public class SQRService {
+ public class SQRService {
     public int square (int lowerSquare, int upperSquare) {
         int count = 0;
         for (int i = 10; i <= 99; i++) {
